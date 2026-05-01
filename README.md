@@ -1,3 +1,5 @@
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/7425367d-83ca-40d2-88b4-a559f06fa77a" />
+
 # Neurolite 🧠⚡
 
 **Lightweight Deep Learning Framework (Built from Scratch)**
